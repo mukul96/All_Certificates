@@ -1,2 +1,5 @@
 # All_Certificates
-Certificates of all the courses done by me on coursera and udemy
+1. Data Science Specialization
+2. Deep Learning Specialization
+3. Practical Time Series Forecasting
+4. React for beginners
